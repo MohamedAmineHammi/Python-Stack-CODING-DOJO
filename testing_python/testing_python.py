@@ -9,6 +9,7 @@ for x in range(1, 6):
 weekdays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
 day = random.choice(weekdays)
 
+
 print(f"Today is: {day}")
 
 if day == "Monday":
